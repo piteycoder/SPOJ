@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538672206 source:c:\users\patry\desktop\programowanie\kursy\c++\spoj\bajtek w przedszkolu\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cmath>
+

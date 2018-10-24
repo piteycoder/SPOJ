@@ -1,0 +1,6 @@
+﻿  resztazdzielenia.cpp
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\resztazdzielenia\resztazdzielenia.cpp(19): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\resztazdzielenia\resztazdzielenia.cpp(25): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\resztazdzielenia\resztazdzielenia.cpp(31): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\resztazdzielenia\resztazdzielenia.cpp(37): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  resztazdzielenia.vcxproj -> C:\Users\patry\Desktop\Programowanie\Kursy\C++\SPOJ\resztazdzielenia\Debug\resztazdzielenia.exe

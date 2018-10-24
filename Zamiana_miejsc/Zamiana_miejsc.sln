@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zamiana_miejsc", "Zamiana_miejsc.vcxproj", "{C658C921-D4C1-45C5-A928-9282F1C441A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C658C921-D4C1-45C5-A928-9282F1C441A4}.Debug|x64.ActiveCfg = Debug|x64
+		{C658C921-D4C1-45C5-A928-9282F1C441A4}.Debug|x64.Build.0 = Debug|x64
+		{C658C921-D4C1-45C5-A928-9282F1C441A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{C658C921-D4C1-45C5-A928-9282F1C441A4}.Debug|x86.Build.0 = Debug|Win32
+		{C658C921-D4C1-45C5-A928-9282F1C441A4}.Release|x64.ActiveCfg = Release|x64
+		{C658C921-D4C1-45C5-A928-9282F1C441A4}.Release|x64.Build.0 = Release|x64
+		{C658C921-D4C1-45C5-A928-9282F1C441A4}.Release|x86.ActiveCfg = Release|Win32
+		{C658C921-D4C1-45C5-A928-9282F1C441A4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51F29985-7595-4C3C-A63C-67B95337BFC6}
+	EndGlobalSection
+EndGlobal

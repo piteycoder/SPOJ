@@ -1,0 +1,2 @@
+﻿test3.obj : error LNK2011: wstępnie skompilowany obiekt nie został skonsolidowany; uruchomienie obrazu może nie być możliwe
+C:\Users\patry\Desktop\Programowanie\Kursy\C++\SPOJ\test3\Debug\test3.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1

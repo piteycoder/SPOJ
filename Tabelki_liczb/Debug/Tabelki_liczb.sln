@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Tabelki_liczb", "Tabelki_liczb.exe", "{3515856B-C98B-4381-B516-71C0E499D6E5}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\patry\Desktop\Programowanie\Kursy\C++\SPOJ\Tabelki_liczb\Debug\Tabelki_liczb.exe
+		RemoteMachine = DESKTOP-BG2GJ63
+		StartingDirectory = C:\Users\patry\Desktop\Programowanie\Kursy\C++\SPOJ\Tabelki_liczb\Debug
+		Environment = Domyślne
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3515856B-C98B-4381-B516-71C0E499D6E5}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B091C904-DF57-45D7-A3E0-5C7EDB0EF8A1}
+	EndGlobalSection
+EndGlobal

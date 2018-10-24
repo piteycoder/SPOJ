@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1530095799 source:c:\users\patry\desktop\programowanie\kursy\c++\spoj\przecena\main.cpp
+	<iostream>
+	<iomanip>
+

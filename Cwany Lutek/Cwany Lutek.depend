@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538677124 source:c:\users\patry\desktop\programowanie\kursy\c++\spoj\cwany lutek\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+

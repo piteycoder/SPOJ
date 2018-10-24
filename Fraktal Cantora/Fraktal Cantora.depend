@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538565583 source:c:\users\patry\desktop\programowanie\kursy\c++\spoj\fraktal cantora\main.cpp
+	<iostream>
+	<cmath>
+

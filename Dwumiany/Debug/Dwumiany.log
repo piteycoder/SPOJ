@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+cl : Wiersz polecenia warning D9028: minimalna ponowna kompilacja nie powiodła się, powrót do normalnej kompilacji
+  Dwumiany.cpp
+c:\users\patry\dropbox\programowanie\kursy\c++\spoj\dwumiany\dwumiany.cpp(4): fatal error C1041: nie można otworzyć bazy danych programu 'C:\Users\patry\Dropbox\Programowanie\Kursy\C++\SPOJ\Dwumiany\Debug\vc141.idb'; jeśli wiele CL.exe zapisuje do tego samego pliku .PDB, użyj /FS

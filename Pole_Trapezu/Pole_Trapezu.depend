@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538503607 source:c:\users\patry\desktop\programowanie\kursy\c++\spoj\pole_trapezu\main.cpp
+	<iostream>
+	<cmath>
+

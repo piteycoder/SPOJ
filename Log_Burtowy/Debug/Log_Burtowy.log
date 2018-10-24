@@ -1,0 +1,3 @@
+﻿  Log_Burtowy.cpp
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\log_burtowy\log_burtowy.cpp(26): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+  Log_Burtowy.vcxproj -> C:\Users\patry\Desktop\Programowanie\Kursy\C++\SPOJ\Log_Burtowy\Debug\Log_Burtowy.exe

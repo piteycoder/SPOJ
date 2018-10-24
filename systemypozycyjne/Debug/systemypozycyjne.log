@@ -1,0 +1,4 @@
+﻿  systemypozycyjne.cpp
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\systemypozycyjne\systemypozycyjne.cpp(42): warning C4715: "Con16”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\systemypozycyjne\systemypozycyjne.cpp(34): warning C4715: "Con11”: niewszystkie ścieżki kodu zwracają wartość
+  systemypozycyjne.vcxproj -> C:\Users\patry\Desktop\Programowanie\Kursy\C++\SPOJ\systemypozycyjne\Debug\systemypozycyjne.exe

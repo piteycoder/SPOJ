@@ -1,0 +1,6 @@
+﻿  tablice.cpp
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\tablice\tablice.cpp(16): error C2450: wyrażenie switch typu "std::string" jest niedozwolone
+  c:\users\patry\desktop\programowanie\kursy\c++\spoj\tablice\tablice.cpp(16): note: Nie jest dostępny żaden operator konwersji zdefiniowany przez użytkownika, który mógłby wykonać tę konwersję lub operator nie może zostać wywołany
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\tablice\tablice.cpp(25): error C2440: "typ rzutowania": nie można konwertować z "const char [2]" na "int"
+  c:\users\patry\desktop\programowanie\kursy\c++\spoj\tablice\tablice.cpp(25): note: Brak kontekstu, w którym ta konwersja jest możliwa
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\tablice\tablice.cpp(25): error C2046: niedozwolony case

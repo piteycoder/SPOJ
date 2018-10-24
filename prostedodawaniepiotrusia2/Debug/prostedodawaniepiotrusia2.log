@@ -1,0 +1,18 @@
+﻿  prostedodawaniepiotrusia2.cpp
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\prostedodawaniepiotrusia2\prostedodawaniepiotrusia2.cpp(22): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „d”
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\prostedodawaniepiotrusia2\prostedodawaniepiotrusia2.cpp(22): error C2065: "inverted": niezadeklarowany identyfikator
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\prostedodawaniepiotrusia2\prostedodawaniepiotrusia2.cpp(22): error C2228: po lewej ".length" musi być typ struct/union
+  c:\users\patry\desktop\programowanie\kursy\c++\spoj\prostedodawaniepiotrusia2\prostedodawaniepiotrusia2.cpp(22): note: typ to "unknown-type"
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\prostedodawaniepiotrusia2\prostedodawaniepiotrusia2.cpp(35): error C2062: nieoczekiwany typ "int"
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\prostedodawaniepiotrusia2\prostedodawaniepiotrusia2.cpp(35): error C2065: "j": niezadeklarowany identyfikator
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\prostedodawaniepiotrusia2\prostedodawaniepiotrusia2.cpp(35): error C2059: błąd składniowy: „)”
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\prostedodawaniepiotrusia2\prostedodawaniepiotrusia2.cpp(37): error C2059: błąd składniowy: „if”
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\prostedodawaniepiotrusia2\prostedodawaniepiotrusia2.cpp(37): error C2143: błąd składniowy: brakuje „;” przed „{”
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\prostedodawaniepiotrusia2\prostedodawaniepiotrusia2.cpp(39): error C2059: błąd składniowy: „return”
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\prostedodawaniepiotrusia2\prostedodawaniepiotrusia2.cpp(40): error C2059: błąd składniowy: „}”
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\prostedodawaniepiotrusia2\prostedodawaniepiotrusia2.cpp(40): error C2143: błąd składniowy: brakuje „;” przed „}”
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\prostedodawaniepiotrusia2\prostedodawaniepiotrusia2.cpp(42): error C2143: błąd składniowy: brakuje „;” przed „{”
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\prostedodawaniepiotrusia2\prostedodawaniepiotrusia2.cpp(42): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\prostedodawaniepiotrusia2\prostedodawaniepiotrusia2.cpp(70): error C2059: błąd składniowy: „return”
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\prostedodawaniepiotrusia2\prostedodawaniepiotrusia2.cpp(71): error C2059: błąd składniowy: „}”
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\prostedodawaniepiotrusia2\prostedodawaniepiotrusia2.cpp(71): error C2143: błąd składniowy: brakuje „;” przed „}”

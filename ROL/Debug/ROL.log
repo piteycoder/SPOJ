@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  ROL.cpp
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\rol\rol.cpp(14): error C2131: wyrażenie nie zostało obliczone do stałej
+  c:\users\patry\desktop\programowanie\kursy\c++\spoj\rol\rol.cpp(14): note: przyczyną niepowodzenia był odczyt zmiennej poza jej okresem istnienia
+  c:\users\patry\desktop\programowanie\kursy\c++\spoj\rol\rol.cpp(14): note: zobacz użycie elementu „n”
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\rol\rol.cpp(17): warning C4552: ">>": operator nie ma żadnego wpływu; oczekiwano operatora z efektem ubocznym
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\rol\rol.cpp(21): warning C4552: "<<": operator nie ma żadnego wpływu; oczekiwano operatora z efektem ubocznym
+c:\users\patry\desktop\programowanie\kursy\c++\spoj\rol\rol.cpp(23): warning C4552: "<<": operator nie ma żadnego wpływu; oczekiwano operatora z efektem ubocznym
